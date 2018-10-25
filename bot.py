@@ -11,7 +11,7 @@ from rename import rename
 #count(str(message.chat.id), '.random')
 
 random.seed()
-bot = telebot.TeleBot(config.token)
+bot = telebot.TeleBot(config.token
 
 @bot.message_handler(commands=['start'])
 def handle_start(message):
