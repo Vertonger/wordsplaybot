@@ -1,6 +1,6 @@
 ﻿Lerianda = 81210352
 Alex = 225498145
-Vertonge = 218556652
+Vertonger = 218556652
 Camomile = 299684663
 Xttt = 441785460
 Крамушка = 7345558
